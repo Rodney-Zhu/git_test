@@ -1,2 +1,4 @@
 
 I'm on step 6 of the Odin Project
+
+Let's make changes and test out my message saving in Visual Studio Code
